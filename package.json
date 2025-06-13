@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@aztec/bb.js": "0.66.0",
+    "@iarna/toml": "^2.2.5",
+    "@noir-lang/noir_js": "1.0.0-beta.1",
+    "toml": "^3.0.0"
+  },
+  "type": "module"
+}
